@@ -2,7 +2,7 @@
 
 Static website for the bulgarian kotlin usergroup, built using [hexo.io](https://hexo.io/)
 
-### Dev dependencies:
+### Dev dependencies and setup:
 
 - [Node.js](https://nodejs.org/en/)
 - [Git](https://git-scm.com/)
