@@ -8,7 +8,7 @@ subtitle:
 description:
 keywords:
 author: bg-kug
-language:
+language: en
 timezone: EET
 
 # URL
@@ -78,6 +78,7 @@ theme: cactus
 theme_config:
   colorscheme: white
   nav:
+    posts: /archives/
     groups.io: https://groups.io/g/bg-kug/
     facebook: https://www.facebook.com/groups/bgkug/
     github: https://github.com/bg-kug
@@ -86,7 +87,7 @@ theme_config:
     github: https://github.com/bg-kug
 
   posts_overview:
-    show_all_posts: false
+    show_all_posts: true
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
